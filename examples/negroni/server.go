@@ -5,10 +5,10 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/betacraft/yaag/middleware"
-	"github.com/betacraft/yaag/yaag"
 	"github.com/gorilla/mux"
 	"github.com/urfave/negroni"
+	"github.com/zongh1314/yaag/middleware"
+	"github.com/zongh1314/yaag/yaag"
 )
 
 func main() {

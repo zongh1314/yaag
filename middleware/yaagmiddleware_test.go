@@ -9,9 +9,9 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/betacraft/yaag/yaag"
-	"github.com/betacraft/yaag/yaag/models"
 	"github.com/gorilla/websocket"
+	"github.com/zongh1314/yaag/yaag"
+	"github.com/zongh1314/yaag/yaag/models"
 )
 
 func TestMain(m *testing.M) {

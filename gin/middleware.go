@@ -4,10 +4,10 @@ import (
 	"log"
 	"strings"
 
-	"github.com/betacraft/yaag/middleware"
-	"github.com/betacraft/yaag/yaag"
-	"github.com/betacraft/yaag/yaag/models"
 	"github.com/gin-gonic/gin"
+	"github.com/zongh1314/yaag/middleware"
+	"github.com/zongh1314/yaag/yaag"
+	"github.com/zongh1314/yaag/yaag/models"
 )
 
 func Document() gin.HandlerFunc {

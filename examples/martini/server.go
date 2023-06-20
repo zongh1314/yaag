@@ -1,9 +1,9 @@
 package main
 
 import (
-	"github.com/betacraft/yaag/martiniyaag"
-	"github.com/betacraft/yaag/yaag"
 	"github.com/go-martini/martini"
+	"github.com/zongh1314/yaag/martiniyaag"
+	"github.com/zongh1314/yaag/yaag"
 )
 
 func main() {

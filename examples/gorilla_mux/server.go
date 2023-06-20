@@ -2,9 +2,9 @@ package main
 
 import (
 	"fmt"
-	"github.com/betacraft/yaag/middleware"
-	"github.com/betacraft/yaag/yaag"
 	"github.com/gorilla/mux"
+	"github.com/zongh1314/yaag/middleware"
+	"github.com/zongh1314/yaag/yaag"
 	"io/ioutil"
 	"net/http"
 	"time"

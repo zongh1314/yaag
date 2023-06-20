@@ -3,10 +3,10 @@ package martiniyaag
 import (
 	"net/http"
 
-	"github.com/betacraft/yaag/middleware"
-	"github.com/betacraft/yaag/yaag"
-	"github.com/betacraft/yaag/yaag/models"
 	"github.com/go-martini/martini"
+	"github.com/zongh1314/yaag/middleware"
+	"github.com/zongh1314/yaag/yaag"
+	"github.com/zongh1314/yaag/yaag/models"
 )
 
 func Document(c martini.Context, w http.ResponseWriter, r *http.Request) {

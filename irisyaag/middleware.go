@@ -3,10 +3,10 @@ package irisyaag
 import (
 	"strings"
 
-	"github.com/betacraft/yaag/middleware"
-	"github.com/betacraft/yaag/yaag"
-	"github.com/betacraft/yaag/yaag/models"
 	"github.com/kataras/iris/v12"
+	"github.com/zongh1314/yaag/middleware"
+	"github.com/zongh1314/yaag/yaag"
+	"github.com/zongh1314/yaag/yaag/models"
 )
 
 // New returns a new yaag iris-compatible handler which is responsible to generate the rest API.

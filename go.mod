@@ -1,4 +1,4 @@
-module github.com/betacraft/yaag
+module github.com/zongh1314/yaag
 
 go 1.14
 
